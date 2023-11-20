@@ -1,0 +1,15 @@
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Softuni-Advanced\Practice-Exams\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll
